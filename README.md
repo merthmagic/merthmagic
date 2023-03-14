@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Java, especially build services on top of Spring framework
 - 🌱 I’m currently learning Rust and Scala
 
 
