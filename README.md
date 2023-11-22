@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java, especially build services on top of Spring framework
+- 🔭 I’m currently working on NeRF based digital human engineering
 - 🌱 I’m currently learning Rust and Scala
 
 
