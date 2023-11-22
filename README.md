@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on NeRF based digital human engineering
-- 🌱 I’m currently learning Rust and Scala
+- 🌱 I’m currently learning Rust,Scala and DeepLearning (focus on NLP and CV)
 
 
 
