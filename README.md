@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 -->
 
 <p style="display:flex">
-    <img src="https://github.gorpeln.eu.org/api/top-langs/?username=yimlu&layout=donut&theme=dark&count_private=true" width="90%">
+    <img src="https://github.gorpeln.eu.org/api/top-langs/?username=yimlu&layout=donut&theme=dark&count_private=true" width="45%">
 </p>
