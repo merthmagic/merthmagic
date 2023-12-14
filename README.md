@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p style="display:flex">
-    <img src="https://github.gorpeln.eu.org/api/top-langs/?username=yimlu&layout=donut&theme=dark&count_private=true" width="45%">
-</p>
