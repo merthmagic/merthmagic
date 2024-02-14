@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 😄 I'm a full-stack developer with 10+ years experience
 - 🔭 I’m currently working on NeRF based digital human engineering
 - 🌱 I’m currently learning Rust,Scala and DeepLearning (focus on NLP and CV)
 
