@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 😄 I'm a full-stack developer with 10+ years experience
-- 🔭 I’m currently working on NeRF based digital human engineering
-- 🌱 I’m currently learning Rust,Scala and DeepLearning (focus on NLP and CV)
+- 😄 I'm a full-stack developer with 10+ yoe
+- 🔭 Working on NeRF based digital human research and engineering 
+- 🌱 Learning Rust,Scala and DeepLearning (focus on NLP and CV)
 
 ### When I'm AFK
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
