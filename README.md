@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 I'm a full-stack developer with 10+ yoe
-- ✨ Working on NeRF based digital human Research/Engineering and AIGC
+- ✨ Working on NeRF based digital human and AIGC Research/Engineering 
 - 🌱 Learning R,Rust,Scala 
 
 ### When I'm AFK
