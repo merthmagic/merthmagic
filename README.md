@@ -2,7 +2,7 @@
 
 - 😄 I'm a full-stack developer with 10+ yoe
 - ✨ Working on NeRF based digital human and AIGC Research/Engineering 
-- 🌱 Learning R,Rust,Scala 
+- 🌱 Learning R,Rust,Scala and Vue 👊
 
 ### When I'm AFK
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
