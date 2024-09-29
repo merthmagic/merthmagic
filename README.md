@@ -2,7 +2,7 @@
 
 - 😄 I'm a full-stack developer with 10+ yoe
 - ✨ Working on NeRF based digital human and AIGC Research/Engineering 
-- 🌱 Learning R,Rust,Scala and Vue 👊
+- 🌱 Learning **Measure Theory**, R,Rust,Scala and Vue 👊
 
 ### 🙋‍♂️I'm Building...
 - 🤖 A NeRF based digital human toolkit includes ASR,TTS,NeRF,RAG and **realtime** video stream pushing
