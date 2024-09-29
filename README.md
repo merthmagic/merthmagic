@@ -4,6 +4,10 @@
 - ✨ Working on NeRF based digital human and AIGC Research/Engineering 
 - 🌱 Learning R,Rust,Scala and Vue 👊
 
+### 🙋‍♂️I'm Building...
+- 🤖 A NeRF based digital human toolkit includes ASR,TTS,NeRF,RAG and **realtime** video stream pushing
+- 📚 A website helps programmers to learn Math and ML
+
 ### When I'm AFK
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
