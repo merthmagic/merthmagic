@@ -6,7 +6,7 @@
 
 ### I'm Building...🚧
 - 🤖 A NeRF based digital human toolkit includes ASR,TTS,NeRF,RAG and **realtime** video stream pushing.
-- 📚 A website helps programmers to learn Math and ML.
+- 🤓 A website helps programmers to learn Math and ML.
 
 ### When I'm AFK
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
