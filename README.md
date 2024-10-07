@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🙋‍♂️ I'm a full-stack developer with 10+ yoe
-- ✨ Working on NeRF based digital human and AIGC Research/Engineering 
-- 📚 Learning **Measure Theory**, R,Rust,Scala and Vue 👊
+- 🙋‍♂️ I'm a full-stack developer with 10+ yoe.
+- 🔭 Working on NeRF based digital human and AIGC Research/Engineering. 
+- 📚 Learning **Measure Theory**, R,Rust,Scala and Vue.
 
 ### I'm Building...🚧
-- 🤖 A NeRF based digital human toolkit includes ASR,TTS,NeRF,RAG and **realtime** video stream pushing
-- 📚 A website helps programmers to learn Math and ML
+- 🤖 A NeRF based digital human toolkit includes ASR,TTS,NeRF,RAG and **realtime** video stream pushing.
+- 📚 A website helps programmers to learn Math and ML.
 
 ### When I'm AFK
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
