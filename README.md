@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🙋‍♂️ I'm a full-stack developer with 10+ yoe.
+- 🙋‍♂️ I'm a backend developer.
 - 🔭 Working on NeRF based digital human and AIGC Research/Engineering. 
 - 📚 Learning **Measure Theory**, R,Rust,Scala and Vue.
 
