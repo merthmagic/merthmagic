@@ -2,7 +2,7 @@
 
 - 🙋‍♂️ I'm a backend developer.
 - 🔭 Working on NeRF based digital human and AIGC Research/Engineering. 
-- 📚 Learning **Measure Theory**, R,Rust,Scala and Vue.
+- 📚 Learning **Measure Theory**,Stata,R,Rust,Scala and Vue.
 
 ### I'm Building...🚧
 - 🤖 A NeRF based digital human toolkit includes ASR,TTS,NeRF,RAG and **realtime** video stream pushing.
