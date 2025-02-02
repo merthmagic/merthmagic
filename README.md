@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🙋‍♂️ I'm a backend developer.
+- 🙋‍♂️ I'm a consultant/developer and chemist also.
 - 🔭 Working on NeRF based digital human and AIGC Research/Engineering. 
 - 📚 Learning **Measure Theory**,Stata,R,Rust,Scala and Vue.
 
