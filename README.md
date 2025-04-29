@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🙋‍♂️ I'm a consultant/developer and chemist also.
+- 🙋‍♂️ I'm a Consultant/Generalist-Software-Developer and Chemist also.
 - 🔭 Working on data science, NeRF based digital human and AIGC Research/Engineering. 
 - 📚 Learning **Measure Theory**,Stata,R,Rust,Scala and Vue.
 
