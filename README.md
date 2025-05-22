@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🙋‍♂️ I'm a Consultant/Generalist-Software-Developer and Chemist also.
-- 🔭 Working on data science, NeRF based digital human and AIGC Research/Engineering. 
-- 📚 Learning **Measure Theory**,Stata,R,Rust,Scala and Vue.
+- 🔭 Working on Data science, Digtal Human and AIGC Research/Engineering. 
+- 📚 Learning Stata,R,Rust,Scala and React.
 
 ### I'm Building...🚧
 - 🤖 A NeRF based digital human toolkit includes ASR,TTS,NeRF,RAG and **realtime** video stream pushing.
