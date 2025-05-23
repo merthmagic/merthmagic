@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🙋‍♂️ I'm a Consultant/Generalist-Software-Developer and Chemist also.
-- 🔭 Working on Data science, Digtal Human and AIGC Research/Engineering. 
+- 🔭 Working on Data science, Digtal Human, LLMs Engineering and Autonomous Agent. 
 - 📚 Learning Stata,R,Rust,Scala and React.
 
 ### I'm Building...🚧
